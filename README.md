@@ -1,2 +1,2 @@
 # LyceumScienceJournal
-A website where HSE Yceum students can get published
+A website where HSE Lyceum students can get published
